@@ -7,7 +7,9 @@ The app enhances user experience with a seamless interface, real-time updates, a
 
 ---
 ## App Demo
-https://drive.google.com/file/d/1xE8m545vAUHn2uageAOaXKynqjxQpL0v/view?usp=sharing
+
+![](https://drive.google.com/file/d/1xE8m545vAUHn2uageAOaXKynqjxQpL0v/view?usp=sharing)
+
 --- 
 ## 🚀 Features
 - **Lab Test Booking**: Book various lab tests easily.
