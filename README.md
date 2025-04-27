@@ -25,9 +25,8 @@ https://drive.google.com/file/d/1xE8m545vAUHn2uageAOaXKynqjxQpL0v/view?usp=shari
 ## 🛠️ Tech Stack
 - React Native
 - Redux Toolkit
-- Tailwind CSS (NativeWind)
 - RESTful APIs
-- Google Maps API
+
 
 ---
 
